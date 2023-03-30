@@ -1,0 +1,9 @@
+name: enm-graph
+channels:
+  - defaults
+dependencies:
+  - python=3.11.0
+  - biopython
+  - matplotlib
+  - numpy
+  - scipy
